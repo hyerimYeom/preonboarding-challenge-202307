@@ -1,12 +1,13 @@
-function About() {
+
+function NotFound() {
   // const [count, setCount] = useState(0)
 
   return (
     <>
-      <div>About</div>
+      <div>NotFound</div>
         <button>Go Main</button>
     </>
   );
 }
 
-export default About;
+export default NotFound;
